@@ -19,7 +19,7 @@ dependencies:
   - ipywidgets
   - graphviz
   - nodejs
-  - jupyterlab
+  - jupyterlab=0.35
   - matplotlib
   - scikit-learn
   - nbserverproxy
