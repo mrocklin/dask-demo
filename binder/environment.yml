@@ -1,0 +1,28 @@
+name: pangeo
+channels:
+  - conda-forge
+  - intake
+  - default
+dependencies:
+  - python=3.7
+  - pyarrow
+  - xarray
+  - dask
+  - distributed
+  - gcsfs
+  - nomkl
+  - zarr
+  - numcodecs
+  - python-blosc
+  - lz4
+  - jupyter
+  - ipywidgets
+  - graphviz
+  - nodejs
+  - jupyterlab
+  - matplotlib
+  - scikit-learn
+  - pip:
+    - kubernetes
+    - graphviz
+    - dask-kubernetes
