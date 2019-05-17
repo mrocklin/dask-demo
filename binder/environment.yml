@@ -25,4 +25,4 @@ dependencies:
   - pip:
     - kubernetes
     - graphviz
-    - git+https://github.com/mrocklin/dask-kubernetes@master
+    - git+https://github.com/dask/dask-kubernetes@master
