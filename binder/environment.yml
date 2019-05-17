@@ -25,4 +25,4 @@ dependencies:
   - pip:
     - kubernetes
     - graphviz
-    - git+https://github.com/dask/dask-kubernetes@c3656b6ca8ca630232cbf65f3d507c0656250888
+    - git+https://github.com/mrocklin/dask-kubernetes@yaml-safe-load-2
